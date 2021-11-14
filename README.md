@@ -11,4 +11,4 @@ A website that offers digital marketing solution services.
 https://judy-martinez.github.io/urban-octo-telegram-project/
 
 ## Contribution
-Made with ❤️ by Judy Martinez
+Made with ❤️ by [Judy Martinez]
