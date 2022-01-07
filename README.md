@@ -8,7 +8,7 @@ Class project: a website that offers digital marketing solution services.
 * CSS
 
 ## Website
-https://judy-martinez.github.io/urban-octo-telegram-project/
+https://judy-martinez.github.io/horiseon-project/
 
 ## Contribution
 Made with ❤️ by [Judy Martinez]
