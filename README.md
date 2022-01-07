@@ -1,7 +1,7 @@
 # urban-octo-telegram-project
 
 ## Purpose
-Class Project: a website that offers digital marketing solution services.
+Class project: a website that offers digital marketing solution services.
 
 ## Built With
 * HTML
