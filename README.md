@@ -1,4 +1,4 @@
-# urban-octo-telegram-project
+# horiseon-project
 
 ## Purpose
 Class project: a website that offers digital marketing solution services.
